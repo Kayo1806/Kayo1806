@@ -1,16 +1,15 @@
-## Hi there 👋
+### Boas vindas ao meu perfiu 
 
-<!--
-**Kayo1806/Kayo1806** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Kayo Itiro Imanishe
 
-Here are some ideas to get you started:
+- Estou estudando na alura
+- estou me desenvolvendo na linguagem javascript
+- Utilizo este espaco para minha organizacao e compartilhamento dos meus projeotos desenvolvidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ ### voce entrar em contato comigo 📫
+
+ 00001120374959sp@al.educacao.sp.gov.br
+
+ @kayoitiroimanishe
+
+![](https://media1.tenor.com/m/9oTfd8We_7kAAAAC/son-goku-goku.gif)

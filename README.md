@@ -10,6 +10,6 @@ Meu nome é Kayo Itiro Imanishe
 
  00001120374959sp@al.educacao.sp.gov.br
 
- @kayoitiroimanishe
+ @kayo_itiro_imanishe
 
 ![](https://media1.tenor.com/m/9oTfd8We_7kAAAAC/son-goku-goku.gif)

@@ -6,7 +6,7 @@ Meu nome é Kayo Itiro Imanishe
 - estou me desenvolvendo na linguagem javascript
 - Utilizo este espaco para minha organizacao e compartilhamento dos meus projeotos desenvolvidos
 
- ### voce entrar em contato comigo 📫
+ ### Voce entrar em contato comigo 📫
 
  00001120374959sp@al.educacao.sp.gov.br
 
